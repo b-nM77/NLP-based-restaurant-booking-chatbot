@@ -40,8 +40,6 @@ It uses **Natural Language Processing (NLP)** techniques to:
 - restaurant_data.csv # Restaurant list with details
 - question_and_answer.csv # Predefined general questions and answers
 - SmallTalk.csv # Casual conversation responses
-- HAI Report.pdf # Coursework report with architecture and evaluation
-
 ---
 
 ## **How It Works**
